@@ -1,0 +1,3 @@
+C:/Users/Joost/CLionProjects/BS-Praktikum-SS2021/cmake-build-debug/CMakeFiles/BS_Praktikum_SS2021.dir
+C:/Users/Joost/CLionProjects/BS-Praktikum-SS2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Joost/CLionProjects/BS-Praktikum-SS2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
